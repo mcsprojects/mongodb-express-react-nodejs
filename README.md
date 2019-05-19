@@ -13,12 +13,12 @@
 * nodemon 1.19.0
 * Bootstrap 4.3.1 
 
-**Iniciando node-server:**
+**Para iniciar node-server:**
 
 1. Ejecutar `npm install` - Este comando instalará todas las dependencias que aparecen en package.json.
 3. Ejecutar `cd backend` y, a continuación, `nodemon server` - Este comando iniciará el servidor en localhost:3005
 
-**Iniciando la aplicación react (frontend):**
+**Para iniciar la aplicación react (frontend):**
 
-1. En el directorio raíz, ejecutar `cd src` y luego `npm install`
+1. En el directorio raíz, ejecutar `cd src` y después `npm install`
 2. Ejecutar `npm start` o `yarn start` y la aplicación se iniciará en localhost:3000. 
