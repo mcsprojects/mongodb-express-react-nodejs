@@ -16,7 +16,7 @@
 **Para iniciar node-server:**
 
 1. Ejecutar `npm install` - Este comando instalará todas las dependencias que aparecen en package.json.
-3. Ejecutar `cd backend` y, a continuación, `nodemon server` - Este comando iniciará el servidor en localhost:3005
+3. Ejecutar `cd backend` y, a continuación, `node server` - Este comando iniciará el servidor en localhost:3005
 
 **Para iniciar la aplicación react (frontend):**
 
